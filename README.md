@@ -1,7 +1,5 @@
-#<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software_Architecture-00D1FF?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge&logo=checkmarx" />
-  <img src="https://img.shields.io/badge/Location-Remote_/_On_Site-orange?style=for-the-badge&logo=googlemaps" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eng.%20Esam%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ### 👨‍💻 About Me
