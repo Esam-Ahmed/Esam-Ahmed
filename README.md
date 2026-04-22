@@ -4,7 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&height=50&lines=IT+Engineer+%26+Software+Architect;Full+Stack+Web+Developer;Mobile+Application+Specialist+(Flutter);Cloud+%26+DevOps+Enthusiast;Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
 </p>
-### 👨‍💻 About Me
+
+ 👨‍💻 About Me
 
 - 🎓 **Identity:** Dedicated **Information Technology Engineer** driven by problem-solving.
 - 🌐 **Web Development:** Expert in crafting seamless **Front-End** experiences & robust **Back-End** architectures.
