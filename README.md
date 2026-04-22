@@ -1,7 +1,8 @@
 #<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&height=100&lines=ENG.+ESAM+AHMAD;IT+ENGINEER+|+SOFTWARE+ARCHITECT" />
+  <img src="https://img.shields.io/badge/Focus-Software_Architecture-00D1FF?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-success?style=for-the-badge&logo=checkmarx" />
+  <img src="https://img.shields.io/badge/Location-Remote_/_On_Site-orange?style=for-the-badge&logo=googlemaps" />
 </p>
----
 
 ### 👨‍💻 About Me
 
