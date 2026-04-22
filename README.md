@@ -1,4 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLzz8CZTq/giphy.gif" width="30px"> I'm Eng. Esam Ahmad
+# <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eng.%20Esam%20Ahmad&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&height=50&lines=IT+Engineer+%26+Software+Architect;Full+Stack+Web+Developer;Mobile+Application+Specialist+(Flutter);Cloud+%26+DevOps+Enthusiast;Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
