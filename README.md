@@ -1,7 +1,6 @@
 #<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001524&height=180&section=header&text=Eng.%20Esam%20Ahmad&fontSize=75&fontColor=00D1FF&animation=twinkle&fontAlignY=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&height=100&lines=ENG.+ESAM+AHMAD;IT+ENGINEER+|+SOFTWARE+ARCHITECT" />
 </p>
-
 ---
 
 ### 👨‍💻 About Me
